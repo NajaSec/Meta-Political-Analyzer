@@ -1,6 +1,43 @@
-# Comprehensive Political Analysis Methodology (CPAM)
+<div align="center">
+
+# 🧠 Comprehensive Political Analysis Methodology (CPAM)
 
 ## A Practical and Operational Framework
+
+[![Status](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)](#)
+[![Methodology](https://img.shields.io/badge/Type-Methodology-blue)](#)
+[![Political Analysis](https://img.shields.io/badge/Focus-Political%20Analysis-purple)](#)
+
+> **Analyze what is said, examine what is omitted, test what is assumed, and assess what is possible.**
+
+</div>
+
+---
+
+## 📚 Table of Contents
+
+* [Overview](#overview)
+* [Core Principle](#core-principle)
+* [Core Assumptions of Political Analysis](#core-assumptions-of-political-analysis)
+* [Political Analysis Process](#political-analysis-process)
+
+  * [1. Identify the Input](#1-identify-the-input)
+  * [2. Establish Context](#2-establish-context)
+  * [3. Analyze the Political Environment](#3-analyze-the-political-environment)
+  * [4. Examine Claims and Evidence](#4-examine-claims-and-evidence)
+* [Fuzzy Reasoning in Political Analysis](#fuzzy-reasoning-in-political-analysis)
+
+  * [Representing Political Conditions](#representing-political-conditions)
+  * [Weighting Political Factors](#weighting-political-factors)
+  * [Combining Interacting Conditions](#combining-interacting-conditions)
+  * [Fuzzy Rules](#fuzzy-rules)
+  * [Handling Ambiguity](#handling-ambiguity)
+* [Self-Awareness and Error Control](#self-awareness-and-error-control)
+
+  * [1. Cognitive Biases](#1-cognitive-biases)
+  * [2. Logical Fallacies](#2-logical-fallacies)
+
+---
 
 > **Status:** Work in progress
 
@@ -27,6 +64,8 @@ Political language does not merely describe reality. The concepts used to descri
 History is not merely a background condition. Previous decisions, institutions, conflicts, accumulated capabilities, and political identities can shape the options available in the present. Historical trajectories may constrain future choices while also creating new possibilities.
 
 Political systems can behave non-linearly. Small events can sometimes produce disproportionate consequences when they interact with existing vulnerabilities or critical conditions, while major events may produce limited change under different circumstances. Feedback loops, unintended consequences, and interactions between multiple causes therefore need to be considered when analyzing political outcomes.
+
+---
 
 ## Political Analysis Process
 
@@ -68,6 +107,7 @@ Evaluate the evidence supporting each claim by considering its source, relevance
 
 Where evidence is incomplete or contested, identify the uncertainty rather than filling the gap with unsupported assumptions.
 
+---
 
 ## Fuzzy Reasoning in Political Analysis
 
@@ -117,11 +157,15 @@ For example:
 
 ```text
 IF
+
 Economic Stability is Low
+
 AND Institutional Capacity is Weak
+
 AND Political Pressure is High
 
 THEN
+
 Systemic Stress is High
 ```
 
@@ -133,7 +177,7 @@ Fuzzy reasoning is particularly useful when political concepts cannot be measure
 
 This does not eliminate uncertainty. It makes uncertainty and gradual differences explicit.
 
-
+---
 
 ## Self-Awareness and Error Control
 
@@ -207,6 +251,8 @@ The tendency to rely too heavily on an initial figure, interpretation, estimate,
 * Reconsider the issue from more than one starting point.
 * Identify what evidence would justify a substantial revision of the original judgment.
 
+---
+
 ### 2. Logical Fallacies
 
 Logical fallacies are recurring errors in reasoning that can weaken an argument or lead to an unsupported conclusion. They may appear in political discourse, source material, or the analyst's own reasoning.
@@ -274,3 +320,13 @@ Using a conclusion, or a restatement of that conclusion, as part of the justific
 * Separate the conclusion from the premises used to support it.
 * Identify which premise is carrying the argument and test it independently.
 * Ask what evidence would support the claim without relying on the conclusion itself.
+
+---
+
+<div align="center">
+
+### 🧠 CPAM
+
+**Work in progress**
+
+</div>
