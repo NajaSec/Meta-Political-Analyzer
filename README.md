@@ -2,203 +2,208 @@
 
 ## A Practical and Operational Framework
 
----
+> **Status:** Work in progress
 
-### Overview
+## Overview
 
-CPAM is a field-tested, step-by-step methodology for dissecting political statements, events, and strategies. It is built for analysts who need to produce actionable insights. The framework treats politics as a game of interests, narratives, institutions, and constraints, and equips the analyst with a checklist of lenses to ensure no critical dimension is overlooked.
+CPAM is a structured methodology for analyzing political statements, events, decisions, and broader political problems. It approaches politics through the interaction of interests, narratives, institutions, incentives, power, and constraints, while providing a systematic process for examining both the subject of analysis and the reasoning used to interpret it.
 
-Unlike purely academic models, CPAM is error-driven. Its primary innovation is a rigorous self-awareness protocol that catches the cognitive shortcuts, logical traps, and linguistic ambiguities that routinely derail even experienced professionals. The methodology is structured around multiple analytical dimensions and a phased operational process, with built-in quality control gates at every stage.
+The framework combines contextual analysis, political actors and institutions, evidence evaluation, causal reasoning, and explicit error control. Its purpose is not to produce certainty where certainty is unavailable, but to make political analysis more systematic, transparent, and resistant to common reasoning errors.
 
-**Core Principle**
+## Core Principle
 
-Analyze what is said, map what is not said, test what is assumed, and project what is possible.
-
-**Target Users**
-
-Intelligence analysts, policy advisors, risk managers, journalists, and strategic decision-makers who require clarity under uncertainty.
-
----
+> **Analyze what is said, examine what is omitted, test what is assumed, and assess what is possible.**
 
 ## Core Assumptions of Political Analysis
 
-Politics is not merely about the distribution of material resources and power, but also a struggle over the definition of meaning. Ideologies, unspoken presuppositions, and dominant narratives determine what counts as a resource, who is deemed worthy of power, and what justice itself signifies. Before any distribution takes place, a battle over the lens of distribution is already underway.
+Politics is not merely a struggle over material resources and power. It is also a struggle over meaning. Political actors compete to define concepts, narratives, identities, and problems, shaping how events are understood and what actions are considered legitimate or possible.
 
-Political actors are neither fully rational nor fully irrational. They are driven by a mixture of tangible interests, collective identities, momentary emotions, and deep-rooted cognitive biases. Their behavior cannot be reduced to mathematical formulas of utility maximization, nor can it be dismissed as sheer delusion. The political human is fallible, contradictory, and calculative at the same time.
+Political actors are neither perfectly rational nor entirely irrational. Their behavior can be shaped by material interests, identities, emotions, social environments, incentives, and cognitive limitations. Political behavior therefore cannot be explained through simple models of rational choice alone, but neither should it be reduced to irrationality.
 
-Structure and agency exist in a dialectical, two-way relationship. Institutions, laws, and dominant culture shape human behavior, but humans, through their accumulated actions, reproduce or transform those very systems. Neither side holds absolute causal primacy over the other.
+Structure and agency interact continuously. Institutions, laws, economic conditions, and dominant norms constrain behavior, while political actors can reproduce, modify, or challenge those same structures through their actions.
 
-Language is not a neutral mirror of reality. It is the medium through which reality is constructed. Concepts such as freedom, terrorism, or democracy are not mere descriptions of objective phenomena. They are linguistic constructs that define the boundaries of possible thought and action. To shift language is to shift political reality itself.
+Political language does not merely describe reality. The concepts used to describe political actors and events can influence how those events are interpreted and which responses become politically acceptable. Terms such as *freedom*, *terrorism*, and *democracy* can therefore become objects of political contestation rather than neutral descriptions.
 
-History is not merely a backdrop for the present. Path dependencies both constrain current choices and provide the ground of possibilities. Inherited institutions, accumulated skills, and historical identities do not only chain actors to the past. They also furnish the only tools actors have at their disposal.
+History is not merely a background condition. Previous decisions, institutions, conflicts, accumulated capabilities, and political identities can shape the options available in the present. Historical trajectories may constrain future choices while also creating new possibilities.
 
-Politics is non-linear. Causal relationships within it are never simple or unidirectional. A minor event occurring at a critical juncture can overturn an entire system, while a major crisis under different conditions may provoke no response whatsoever. The outcomes of an action are never proportional to its initial scale or logic. Unintended feedback loops, counter-finalities, and unexpected victories are embedded in the very nature of the political.
-
----
+Political systems can behave non-linearly. Small events can sometimes produce disproportionate consequences when they interact with existing vulnerabilities or critical conditions, while major events may produce limited change under different circumstances. Feedback loops, unintended consequences, and interactions between multiple causes therefore need to be considered when analyzing political outcomes.
 
 ## Political Analysis Process
 
 ### 1. Identify the Input
 
-Before beginning the analysis, clearly identify what is being analyzed. Political analysis can start from many different types of inputs, such as a news report, political statement, policy decision, public claim, statistical figure, speech, historical event, or a broader political problem.
+Before beginning the analysis, clearly identify what is being analyzed. Political analysis can begin with a news report, political statement, policy decision, statistical claim, speech, historical event, social media post, political argument, or broader political problem.
 
-The input should first be understood on its own terms. What exactly is being presented? What is the main claim or subject? Is the input describing an event, making a causal claim, proposing a policy, interpreting an event, or making a prediction?
+First determine what the input actually presents. Identify its subject, main claims, and intended function. Is it describing an event, making a causal claim, proposing a policy, interpreting an event, presenting evidence, or making a prediction?
 
-At this stage, the goal is not to determine whether the input is true or false. The purpose is to establish what the actual object of analysis is before examining its context, evidence, actors, or implications.
+At this stage, the objective is to define the object of analysis rather than determine whether it is correct.
 
-A clear distinction should also be maintained between what the input directly states and what is inferred from it. An observation, an interpretation, and a causal explanation are not necessarily the same thing, even when they appear together in the same political narrative.
-
+Maintain a clear distinction between what the input directly states and what is inferred from it. An observation, interpretation, explanation, and prediction should not be treated as interchangeable.
 
 ### 2. Establish Context
 
-Once the input has been identified, examine the context surrounding it before drawing conclusions from it. The analysis should establish when and where the event, claim, or decision occurred, what happened before it, and what political, economic, social, institutional, or international conditions were already in place.
+Once the input has been identified, establish the context necessary to interpret it correctly. Determine when and where it occurred, what preceded it, and which political, economic, social, institutional, or international conditions are relevant.
 
-The analyst should identify the assumptions that the input depends on, including conditions that are treated as obvious but are not explicitly demonstrated. The interests and incentives created by the surrounding conditions should also be examined, including who may benefit or lose from the situation, who may benefit from a particular interpretation being accepted, and what constraints different actors face.
+Identify previous events and decisions that may have shaped the current situation. Determine whether the input is part of a longer political process rather than an isolated event.
 
-The analysis should also identify relevant context that is missing from the input. Information can be accurate while still producing a misleading interpretation when important background conditions, previous events, or competing circumstances are omitted.
+Also identify relevant context that is absent from the input. Information can be accurate while still producing a misleading interpretation when important background conditions or competing circumstances are omitted.
 
-Context should therefore be used to reconstruct the environment in which the input exists, rather than to confirm or reject the input by itself. It provides the conditions necessary for the later analysis of actors, interests, evidence, and causal relationships.
+Context should establish the environment surrounding the subject of analysis, not be used as evidence that automatically confirms or rejects the input.
 
+### 3. Analyze the Political Environment
+
+Identify the actors relevant to the issue and examine their positions, interests, incentives, resources, and constraints. Determine which actors can influence the situation, which are affected by it, and how their interests and actions interact.
+
+Examine the institutions, rules, and power structures within which these actors operate. Consider how formal authority, informal influence, access to resources, and structural constraints affect the available choices and possible outcomes.
+
+The objective is to understand not only who is involved, but the environment in which political behavior becomes possible, constrained, or advantageous.
+
+### 4. Examine Claims and Evidence
+
+Break the input into its main claims and distinguish factual assertions from interpretations, assumptions, causal explanations, and predictions.
+
+Identify what each claim depends on and what must be true for the claim to hold. Examine whether important assumptions are explicit or left unstated.
+
+Evaluate the evidence supporting each claim by considering its source, relevance, quality, reliability, and limitations. Distinguish evidence from interpretation and determine what the available evidence actually establishes rather than what it is being used to imply.
+
+Where evidence is incomplete or contested, identify the uncertainty rather than filling the gap with unsupported assumptions.
 
 ## Self-Awareness and Error Control
 
 ### 1. Cognitive Biases
 
-Cognitive biases are systematic patterns of deviation from rationality in judgment. They are not signs of incompetence; they are features of human cognition that become dangerous when left unchecked. The following biases are the most frequent and damaging in political analysis.
+Cognitive biases are recurring patterns that can distort judgment and interpretation. They are particularly relevant to political analysis because analysts often work with incomplete information, uncertainty, emotionally charged subjects, and competing narratives.
 
 #### Confirmation Bias
 
-The tendency to search for, interpret, and recall information in a way that confirms one's preexisting beliefs or hypotheses, while giving disproportionately less weight to contradictory evidence.
+The tendency to search for, interpret, and recall information in ways that support an existing belief or hypothesis while giving insufficient weight to contradictory evidence.
 
 **How to Detect It**
 
-* You find yourself easily accepting evidence that supports your conclusion while subjecting opposing evidence to excessive scrutiny.
-* You instinctively seek out sources that reinforce your initial judgment.
-* You dismiss counterarguments with phrases like "that's an exception" or "that's not the real issue."
+* Supporting evidence is accepted with little scrutiny while contradictory evidence is examined more aggressively.
+* Sources that reinforce the initial conclusion are preferred without equivalent consideration of opposing evidence.
+* Counterarguments are dismissed without being evaluated on their merits.
 
 **Mitigation**
 
-* Actively seek out the strongest possible argument against your conclusion before finalizing your analysis.
-* Formulate at least one alternative hypothesis and test it with the same rigor as your primary one.
-* Document the evidence that would cause you to abandon your current conclusion, and monitor for it.
+* Formulate at least one plausible alternative explanation.
+* Deliberately examine the strongest evidence against the current conclusion.
+* Identify what evidence would materially change or weaken the conclusion.
+* Apply comparable standards of scrutiny to supporting and opposing evidence.
 
 #### Overconfidence Effect
 
-The tendency to overestimate the accuracy of one's judgments, predictions, and the reliability of one's information. In political analysis, this manifests as unjustified certainty about complex and inherently uncertain events.
+The tendency to overestimate the accuracy of one's judgments, predictions, or available information.
 
 **How to Detect It**
 
-* You use absolute language ("will happen," "definitely," "cannot") rather than probabilistic language.
-* You assign precise probabilities (e.g., 75%) without acknowledging the margin of error.
-* You cannot articulate what would change your mind or under what conditions your prediction might fail.
+* Complex political outcomes are described with unjustified certainty.
+* The analysis uses absolute language where uncertainty is substantial.
+* There is no clear account of what evidence or conditions could prove the judgment wrong.
 
 **Mitigation**
 
-* Always express confidence as a range (e.g., 60-70%) rather than a single figure.
-* Explicitly state the conditions under which your confidence would decrease or increase.
-* Review past predictions and calibrate your confidence against actual outcomes.
+* State the basis and degree of confidence in the conclusion.
+* Identify the conditions under which the conclusion could change.
+* Distinguish between strong evidence, moderate evidence, and limited evidence.
+* Review previous judgments against their actual outcomes to improve calibration.
 
 #### Availability Heuristic
 
-The tendency to judge the likelihood or importance of events based on how easily examples come to mind. Recent events, dramatic incidents, and high-profile cases are disproportionately weighted, often at the expense of statistical trends and structural patterns.
+The tendency to give disproportionate weight to information that is recent, vivid, memorable, or easily recalled.
 
 **How to Detect It**
 
-* Your analysis is dominated by recent events rather than long-term patterns.
-* You give more weight to a dramatic single incident than to a body of accumulated evidence.
-* You find yourself saying "the most recent case shows..." without comparing it to historical baselines.
+* A recent event dominates the analysis despite limited evidence of broader significance.
+* A dramatic example receives more weight than larger bodies of evidence.
+* Historical patterns or base rates are ignored in favor of memorable cases.
 
 **Mitigation**
 
-* Deliberately set aside recent events and review the historical data or trend lines first.
-* Ask: "If this event had occurred five years ago, would I assign it the same significance?"
-* Compare the current case to a structured set of historical precedents, not just the most memorable ones.
+* Compare the current case with longer-term trends and historical precedents.
+* Examine whether the event is representative or unusually salient.
+* Ask whether the same conclusion would be reached if a less memorable example were considered.
 
 #### Anchoring
 
-The tendency to rely too heavily on the first piece of information encountered (the "anchor") when making judgments. Subsequent information is interpreted and adjusted relative to that anchor, often insufficiently, leading to distorted conclusions.
+The tendency to rely too heavily on an initial figure, interpretation, estimate, or framing when evaluating subsequent information.
 
 **How to Detect It**
 
-* The first figure, statement, or frame you encountered continues to shape your thinking even after new evidence emerges.
-* You make adjustments from an initial estimate but remain closer to it than the evidence justifies.
-* You recognize that if you had started with a different reference point, your conclusion would be meaningfully different.
+* The first interpretation encountered continues to shape the analysis despite new evidence.
+* New estimates are adjusted around the original figure rather than reconsidered independently.
+* Alternative starting points produce substantially different judgments.
 
 **Mitigation**
 
-* Before examining any evidence, ask yourself what range of outcomes is plausible based on first principles.
-* Deliberately set multiple anchors by considering the full spectrum of possible starting points.
-* Once you have formed a preliminary judgment, actively consider what evidence would justify moving significantly away from your anchor, and seek it out.
-
----
+* Establish an independent baseline before adopting the initial interpretation.
+* Reconsider the issue from more than one starting point.
+* Identify what evidence would justify a substantial revision of the original judgment.
 
 ### 2. Logical Fallacies
 
-Logical fallacies are errors in reasoning that undermine the validity of an argument. Unlike cognitive biases, which originate in the analyst's cognitive machinery, fallacies are often embedded in the arguments being analyzed or in the analyst's own reasoning. The following four fallacies are the most frequent and damaging in political analysis.
+Logical fallacies are recurring errors in reasoning that can weaken an argument or lead to an unsupported conclusion. They may appear in political discourse, source material, or the analyst's own reasoning.
 
 #### False Dilemma
 
-The fallacy of reducing a complex set of options to only two opposing alternatives, while ignoring intermediate or alternative positions. In political discourse, this manifests as "either/or" framing that forces a false choice.
+Reducing a complex range of possibilities to two opposing alternatives when additional options or intermediate positions exist.
 
 **How to Detect It**
 
-* An argument presents only two options, one of which is clearly unacceptable, to force acceptance of the other.
-* Multiple possible outcomes or positions exist but are systematically excluded from the frame.
+* Only two choices are presented despite the existence of other plausible options.
+* One option is framed as unacceptable in order to make the other appear necessary.
+* The alternatives presented are neither exhaustive nor genuinely mutually exclusive.
 
 **Mitigation**
 
-* Actively map the full spectrum of possible positions or outcomes before accepting any binary framing.
-* Ask: "What third, fourth, or fifth option is being excluded?"
-* Test whether the two options presented are genuinely exhaustive and mutually exclusive.
-* Reconstruct the argument without the binary structure and see if the conclusion still holds.
+* Identify additional options before accepting a binary framing.
+* Test whether the alternatives presented actually cover the relevant possibilities.
+* Reconstruct the issue without the imposed either-or structure.
 
 #### Hasty Generalization
 
-The fallacy of drawing a broad conclusion from a sample that is too small, non-representative, or unrepresentative of the broader population or phenomenon. In political analysis, this often manifests as extrapolating from a single case to a general pattern.
+Drawing a broad conclusion from a sample that is too small, selective, or unrepresentative to support the conclusion.
 
 **How to Detect It**
 
-* A conclusion is drawn from one or two examples, without sufficient evidence.
-* The sample used is clearly unrepresentative of the broader population.
-* You find yourself using phrases like "this case shows that..." without qualification.
+* A general claim is based on one or a few cases.
+* The cases used are unusually selected or unrepresentative.
+* A specific example is treated as evidence of a general rule without sufficient comparison.
 
 **Mitigation**
 
-* Ask: "How representative is this case of the broader category I am generalizing about?"
-* Seek out counterexamples that would challenge the generalization.
-* Express generalizations as tendencies or probabilities, not as universal laws.
-* Explicitly state the scope conditions of your generalization (where it applies and where it does not).
+* Examine how representative the available cases are.
+* Search for counterexamples and relevant cases that do not fit the proposed pattern.
+* Define the scope of the conclusion instead of treating it as universal.
 
 #### Appeal to Authority
 
-The fallacy of accepting a claim as true simply because an authority figure or institution endorses it, without examining the substance of the claim itself. In political analysis, this often manifests as uncritical reliance on the pronouncements of experts, institutions, or prominent figures.
+Treating a claim as established primarily because an authority, expert, institution, or prominent figure supports it.
 
 **How to Detect It**
 
-* You accept a conclusion primarily because a respected figure or institution has stated it.
-* You do not examine the evidence behind the authority's claim.
-* You dismiss counterarguments primarily by questioning the authority's credentials rather than engaging with the evidence.
+* The authority's position is treated as evidence by itself.
+* The underlying evidence is not examined.
+* Disagreement is dismissed primarily on the basis of credentials or status.
 
 **Mitigation**
 
-* Always separate the source of a claim from the substance of the claim.
-* Ask: "What evidence does the authority provide, and is it convincing on its own?"
-* Ask: "What biases or interests might this authority have that could color their judgment?"
-* Seek out competing authorities with opposing views to test the strength of the argument.
+* Separate the authority of the source from the evidence supporting the claim.
+* Examine the reasoning and evidence provided by the authority.
+* Consider relevant disagreement or independent evidence where it materially affects the claim.
 
 #### Begging the Question (Circular Reasoning)
 
-The fallacy of assuming the conclusion in the premises of an argument. The argument moves in a circle, restating the claim in different words without providing independent evidence. In political analysis, this often appears as definitions or assumptions that already contain the desired conclusion.
+Using a conclusion, or a restatement of that conclusion, as part of the justification for itself.
 
 **How to Detect It**
 
-* The conclusion is essentially a restatement of one of the premises.
-* The argument assumes what it is trying to prove.
-* You find yourself accepting a premise that already includes the answer to the question.
+* The conclusion is already contained in the premises.
+* A claim is supported by repeating the same claim in different wording.
+* An assumption is treated as established without independent support.
 
 **Mitigation**
 
-* Ask: "If this premise were false, would the argument still work?"
-* Ask: "What evidence would be needed to test this claim independently of the argument itself?"
-* Separate the question you are trying to answer from the premises you are using.
-* Look for the underlying assumption that is doing the heavy lifting and test it directly.
+* Separate the conclusion from the premises used to support it.
+* Identify which premise is carrying the argument and test it independently.
+* Ask what evidence would support the claim without relying on the conclusion itself.
