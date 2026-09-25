@@ -36,6 +36,19 @@ Politics is non-linear. Causal relationships within it are never simple or unidi
 
 ---
 
+## Political Analysis Process
+
+### 1. Identify the Input
+
+Before beginning the analysis, clearly identify what is being analyzed. Political analysis can start from many different types of inputs, such as a news report, political statement, policy decision, public claim, statistical figure, speech, historical event, or a broader political problem.
+
+The input should first be understood on its own terms. What exactly is being presented? What is the main claim or subject? Is the input describing an event, making a causal claim, proposing a policy, interpreting an event, or making a prediction?
+
+At this stage, the goal is not to determine whether the input is true or false. The purpose is to establish what the actual object of analysis is before examining its context, evidence, actors, or implications.
+
+A clear distinction should also be maintained between what the input directly states and what is inferred from it. An observation, an interpretation, and a causal explanation are not necessarily the same thing, even when they appear together in the same political narrative.
+
+
 ## Self-Awareness and Error Control
 
 ### 1. Cognitive Biases
