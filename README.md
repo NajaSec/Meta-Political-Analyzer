@@ -49,6 +49,17 @@ At this stage, the goal is not to determine whether the input is true or false. 
 A clear distinction should also be maintained between what the input directly states and what is inferred from it. An observation, an interpretation, and a causal explanation are not necessarily the same thing, even when they appear together in the same political narrative.
 
 
+### 2. Establish Context
+
+Once the input has been identified, examine the context surrounding it before drawing conclusions from it. The analysis should establish when and where the event, claim, or decision occurred, what happened before it, and what political, economic, social, institutional, or international conditions were already in place.
+
+The analyst should identify the assumptions that the input depends on, including conditions that are treated as obvious but are not explicitly demonstrated. The interests and incentives created by the surrounding conditions should also be examined, including who may benefit or lose from the situation, who may benefit from a particular interpretation being accepted, and what constraints different actors face.
+
+The analysis should also identify relevant context that is missing from the input. Information can be accurate while still producing a misleading interpretation when important background conditions, previous events, or competing circumstances are omitted.
+
+Context should therefore be used to reconstruct the environment in which the input exists, rather than to confirm or reject the input by itself. It provides the conditions necessary for the later analysis of actors, interests, evidence, and causal relationships.
+
+
 ## Self-Awareness and Error Control
 
 ### 1. Cognitive Biases
